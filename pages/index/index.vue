@@ -223,7 +223,7 @@
 					secretaryApproveTime: DateUtil.radomUnixTimeWithHour(10)
 						.add(-1, 'day')
 						.unix(),
-					headmasterApproveReason: '通过',
+					headmasterApproveReason: '同意',
 					instructorApproveReason: '',
 					secretaryApproveReason: '',
 					fileList: [],
